@@ -1,7 +1,5 @@
 # hello-world
-just the first one
-ok just want to write something!
+Now, we begin again!
+Good day and good weather!
 
-Hi! I'm back again!
 
-Just confused.
